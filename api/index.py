@@ -4,7 +4,7 @@ template = """
 <html>
 <body>
   <h1>Hello, World!</h1>
-  <iframe src="https://webhooks.pw/"></iframe>
+  <iframe src="https://webhooks.pw/test.html"></iframe>
 </body>
 </html>
 """

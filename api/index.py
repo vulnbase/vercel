@@ -3,7 +3,7 @@ from http.server import BaseHTTPRequestHandler
 template = """
 <html>
 <body>
-  <h1>Hello, World!</h1>
+  <h1>Hello, World 2!</h1>
   <iframe src="https://webhooks.pw/test.html"></iframe>
 </body>
 </html>

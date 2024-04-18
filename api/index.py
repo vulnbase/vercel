@@ -5,6 +5,7 @@ template = """
 <body>
   <h1>Hello, World 2!</h1>
   <iframe src="https://webhooks.pw/test.html"></iframe>
+  <img src="https://webhooks.pw/test.png?delay=1" />
 </body>
 </html>
 """

